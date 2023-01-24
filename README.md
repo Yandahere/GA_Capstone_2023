@@ -1,6 +1,4 @@
-# GA_Capstone_2023
- GA Final Project
- ## Startup Success Prediction
+# Startup Success Prediction
 ## Yanda DSI 33
  Classification model on CatAdvice and DogAdvice
  # Table of contents
