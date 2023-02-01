@@ -1,6 +1,5 @@
 # Startup Success Prediction
 ## Yanda DSI 33
- Classification model on CatAdvice and DogAdvice
  # Table of contents
 1. [Background and Problem Statement]
 2. [Data Cleaning]
